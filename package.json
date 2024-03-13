@@ -5,8 +5,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "node --env-file=.env --watch --inspect server.js development", 
-    "start": "node server.js production"
+    "dev": "node --env-file=.env --watch --inspect server.js", 
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
